@@ -63,7 +63,7 @@ function sortArray(array){
 
 
 
-
+My write up for Question number 4
 Question 4
 
 function sameness(string) {
