@@ -1,6 +1,16 @@
+Chris Nakayama
+White Boarding Study README.md
+
+STUDY LOG
+
+I studied for at least four hours on this project for White Boarding.
+
+Some of my group was able to get together to study and some of the questions below are from our study group.
+
+Videos:
 https://www.youtube.com/watch?v=DIR_rxusO8Q
 
-
+https://www.youtube.com/watch?time_continue=1&v=dIrS31CCITM&feature=emb_title
 
 Study Examples for White Boarding From the Group:
 
