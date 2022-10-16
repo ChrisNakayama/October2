@@ -179,3 +179,8 @@ function sameness(string) {
           return false;                // else return false
         }
       }
+
+
+      I completed the White Boarding exercise and participated as a peer for other members of my cohort. I turned in evaluations for my peers.
+      
+      I spoke to Cathy about what to turn in. Cathy told me a REPO with at least 4 hours of commmits to show that I studied for this exam and what resources I used. I included all of the material in this repo.
